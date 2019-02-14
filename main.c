@@ -6,7 +6,7 @@
 *   - Mise en page et pr‚sentation du jeu -> titres, grille, aide, mettre milieu, ...           *
 *   - Titre pour le code (comme celui-l…)                                                       *
 *   - Faire le dossier ! -> Possibilit‚ de faire la prob sur un IA                              *
-*                                                                                               *
+*
 ************************************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
