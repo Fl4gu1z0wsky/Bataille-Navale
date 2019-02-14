@@ -3,9 +3,6 @@
 *                                                                                               *
 *   - Mettre des DEFAULT_VALUE                                                                  *
 *   - Mettre des commentaires avec Doxygen                                                      *
-*   - Finir la mise en place des bateau al‚atoirement                                           *
-*   - Cr‚er un IA                                                                               *
-*   - Cr‚er des logs -> ? les diff‚rentes grilles avec date ?                                   *
 *   - Mise en page et pr‚sentation du jeu -> titres, grille, aide, mettre milieu, ...           *
 *   - Titre pour le code (comme celui-l…)                                                       *
 *   - Faire le dossier ! -> Possibilit‚ de faire la prob sur un IA                              *
